@@ -1,0 +1,23 @@
+{
+  "report_id": "2023-071",
+  "repo_name": "verasight-report-2023-071",
+  "title": "2023 APSA Omnibus Survey #2023-071",
+  "wave_id": "2023-071",
+  "survey_id": "2023-071",
+  "source_report_url": "https://verasight-apsa-2023.tiiny.co",
+  "data_library_url": "https://data.verasight.io/",
+  "field_dates": {
+    "start": "2023-09-07",
+    "end": "2023-09-13"
+  },
+  "population": "United States adults",
+  "mode": "online panel (Verasight Community)",
+  "sponsor": "Verasight",
+  "aapor_transparency": true,
+  "question_count": 77,
+  "modules": [
+    "MPSA 2023 Omnibus Survey #2023-032",
+    "2023 APSA Omnibus Survey #2023-071",
+    "Identity, Politics, & Social Trust"
+  ]
+}

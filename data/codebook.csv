@@ -1,0 +1,457 @@
+question_id,option_id,option_label,is_missing
+2023-032_q14,1,Strongly approve,false
+2023-032_q14,2,Somewhat approve,false
+2023-032_q14,3,Somewhat disapprove,false
+2023-032_q14,4,Strongly disapprove,false
+2023-032_q14,5,Not sure,false
+2023-071_q1,1,1 A great deal,false
+2023-071_q1,2,2,false
+2023-071_q1,3,3,false
+2023-071_q1,4,4,false
+2023-071_q1,5,5 No confidence,false
+2023-071_q10,1,Yes,false
+2023-071_q10,2,No,false
+2023-071_q10,3,Don't know/Don't remember,false
+2023-071_q11,1,They think voting is very important,false
+2023-071_q11,2,They think voting is somewhat important,false
+2023-071_q11,3,They think voting is not that important,false
+2023-071_q11,4,They think voting is not at all important,false
+2023-071_q11,5,I don't know what they think,false
+2023-071_q11,6,They disapprove of voting,false
+2023-071_q11,7,They strongly disapprove of voting,false
+2023-071_q12,1,Much more important for JUDGES,false
+2023-071_q12,2,Somewhat more important for JUDGES,false
+2023-071_q12,3,Somewhat more important for SENIOR MILITARY OFFICERS,false
+2023-071_q12,4,Much more important for SENIOR MILITARY OFFICERS,false
+2023-071_q12,5,Both are important and equally so,false
+2023-071_q12,6,Neither is important,false
+2023-071_q13_1,50,,false
+2023-071_q13_1,51,,false
+2023-071_q13_1,52,,false
+2023-071_q13_1,53,,false
+2023-071_q13_1,54,,false
+2023-071_q13_1,55,,false
+2023-071_q13_1,56,,false
+2023-071_q13_1,57,,false
+2023-071_q13_1,58,,false
+2023-071_q13_1,59,,false
+2023-071_q13_1,60,,false
+2023-071_q13_1,61,,false
+2023-071_q13_1,62,,false
+2023-071_q13_1,63,,false
+2023-071_q13_1,64,,false
+2023-071_q13_1,65,,false
+2023-071_q13_1,66,,false
+2023-071_q13_1,67,,false
+2023-071_q13_1,68,,false
+2023-071_q13_1,69,,false
+2023-071_q13_1,70,,false
+2023-071_q13_1,71,,false
+2023-071_q13_1,72,,false
+2023-071_q13_1,73,,false
+2023-071_q13_1,74,,false
+2023-071_q13_1,75,,false
+2023-071_q13_1,76,,false
+2023-071_q13_1,77,,false
+2023-071_q13_1,78,,false
+2023-071_q13_1,79,,false
+2023-071_q13_1,80,,false
+2023-071_q13_1,81,,false
+2023-071_q13_1,82,,false
+2023-071_q13_1,83,,false
+2023-071_q13_1,84,,false
+2023-071_q13_1,85,,false
+2023-071_q13_1,86,,false
+2023-071_q13_1,87,,false
+2023-071_q13_1,88,,false
+2023-071_q13_1,89,,false
+2023-071_q13_1,90,,false
+2023-071_q13_1,91,,false
+2023-071_q13_1,92,,false
+2023-071_q13_1,93,,false
+2023-071_q13_1,94,,false
+2023-071_q13_1,95,,false
+2023-071_q13_1,96,,false
+2023-071_q13_1,97,,false
+2023-071_q13_1,98,,false
+2023-071_q13_1,99,,false
+2023-071_q13_1,100,,false
+2023-071_q14,1,Learning about constituents' opinions,false
+2023-071_q14,2,Helping people with issues they have with government agencies,false
+2023-071_q14,3,Working on legislation,false
+2023-071_q14,4,Giving speeches on their policy positions,false
+2023-071_q14,5,Helping their district get government money and projects,false
+2023-071_q14,6,Attending political rallies,false
+2023-071_q14,7,Working with the other party,false
+2023-071_q15,1,All the time,false
+2023-071_q15,2,Most all of the time,false
+2023-071_q15,3,About half of the time,false
+2023-071_q15,4,Some of the time,false
+2023-071_q15,5,Never,false
+2023-071_q15,6,I have never received or seen a voter guide,false
+2023-071_q16,1,"1 Democracy means compromise: the majority should never overrule minority opinion, and should always compromise.",false
+2023-071_q16,2,2,false
+2023-071_q16,3,3,false
+2023-071_q16,4,4 Democracy means that the majority should compromise about half of the time.,false
+2023-071_q16,5,5,false
+2023-071_q16,6,6,false
+2023-071_q16,7,"7 Democracy means the majority always gets what it wants, no matter what the minority wants",false
+2023-071_q17,1,Democratic Party,false
+2023-071_q17,2,Republican Party,false
+2023-071_q17,3,Don't know,false
+2023-071_q18,1,Strongly Agree,false
+2023-071_q18,2,Agree,false
+2023-071_q18,3,Neither Agree Nor Disagree,false
+2023-071_q18,4,Disagree,false
+2023-071_q18,5,Strongly Disagree,false
+2023-071_q19,1,Pure Independent,false
+2023-071_q19,2,Independent Leaning to Democrat or Republican,false
+2023-071_q19,3,Democrat or Republican,false
+2023-071_q19,4,Strong Democrat or Strong Republican,false
+2023-071_q2,1,0 Not at all worried,false
+2023-071_q2,2,1,false
+2023-071_q2,3,2,false
+2023-071_q2,4,3,false
+2023-071_q2,5,4,false
+2023-071_q2,6,5,false
+2023-071_q2,7,6,false
+2023-071_q2,8,7 Very worried,false
+2023-071_q20,1,Ron Desantis,false
+2023-071_q20,2,Tim Scott,false
+2023-071_q20,3,Nikki Haley,false
+2023-071_q20,4,Vivek Ramaswamy,false
+2023-071_q20,5,Chris Christie,false
+2023-071_q20,6,Mike Pence,false
+2023-071_q20,7,Some other candidate,false
+2023-071_q21,1,Democrats,false
+2023-071_q21,2,Hispanics,false
+2023-071_q21,3,None of the above,false
+2023-071_q21,4,Republicans,false
+2023-071_q21,5,Trump Supporters,false
+2023-071_q21,6,Feminists,false
+2023-071_q21,7,Liberals,false
+2023-071_q21,8,Conservatives,false
+2023-071_q21,9,Evangelical Christians,false
+2023-071_q21,10,Whites,false
+2023-071_q21,11,Blacks,false
+2023-071_q22,1,Strongly agree,false
+2023-071_q22,2,Agree,false
+2023-071_q22,3,Neither agree nor disagree,false
+2023-071_q22,4,Disagree,false
+2023-071_q22,5,Strongly disagree,false
+2023-071_q23,1,Strongly agree,false
+2023-071_q23,2,Agree,false
+2023-071_q23,3,Neither agree nor disagree,false
+2023-071_q23,4,Disagree,false
+2023-071_q23,5,Strongly disagree,false
+2023-071_q24,1,Strongly agree,false
+2023-071_q24,2,Agree,false
+2023-071_q24,3,Neither agree nor disagree,false
+2023-071_q24,4,Disagree,false
+2023-071_q24,5,Strongly disagree,false
+2023-071_q25,1,Very dissatisfied,false
+2023-071_q25,2,Somewhat dissatisfied,false
+2023-071_q25,3,A little dissatisfied,false
+2023-071_q25,4,Neither satisfied nor dissatisfied,false
+2023-071_q25,5,A little satisfied,false
+2023-071_q25,6,Somewhat satisfied,false
+2023-071_q25,7,Very satisfied,false
+2023-071_q25_ran,1,"According to the latest survey by the American National Election Studies, white non-college graduates for instance reported increasing economic optimism. The number of white non-college graduates feeling worried about their economic situation has been more than halved.",false
+2023-071_q25_ran,2,"According to the latest survey by the American National Election Studies, black non-college graduates for instance reported increasing economic optimism. The number of black non-college graduates feeling worried about their economic situation had fallen by nearly a third.",false
+2023-071_q25_ran,3,"According to the latest survey by the American National Election Studies, hispanic non-college graduates for instance reported increasing economic optimism. The number of hispanic non-college graduates feeling worried about their economic situation had fallen by nearly a third.",false
+2023-071_q25_ran,4,"According to the latest survey by the American National Election Studies, white college graduates for instance reported increasing economic optimism. The number of white college graduates feeling worried about their economic situation had fallen by nearly two thirds.",false
+2023-071_q25_ran,5,"According to the latest survey by the American National Election Studies, black college graduates for instance reported increasing economic optimism. The number of black college graduates feeling worried about their economic situation had fallen by nearly two thirds.",false
+2023-071_q25_ran,6,"According to the latest survey by the American National Election Studies, hispanic college graduates for instance reported increasing economic optimism. The number of hispanic college graduates feeling worried about their economic situation had fallen by more than a third.",false
+2023-071_q26,1,Yes,false
+2023-071_q26,2,No,false
+2023-071_q26,3,Maybe,false
+2023-071_q26,4,Don’t know,false
+2023-071_q27,1,Strongly Agree,false
+2023-071_q27,2,Agree,false
+2023-071_q27,3,Neither agree nor disagree,false
+2023-071_q27,4,Disagree,false
+2023-071_q27,5,Strongly Disagree,false
+2023-071_q28,1,Yes,false
+2023-071_q28,2,No,false
+2023-071_q28,3,Don’t know,false
+2023-071_q28,4,Maybe,false
+2023-071_q29,1,Strongly Agree,false
+2023-071_q29,2,Somewhat Agree,false
+2023-071_q29,3,Somewhat Disagree,false
+2023-071_q29,4,Strongly Disagree,false
+2023-071_q3,1,1 Not at all politically divided,false
+2023-071_q3,2,2,false
+2023-071_q3,3,3,false
+2023-071_q3,4,4,false
+2023-071_q3,5,5,false
+2023-071_q3,6,6,false
+2023-071_q3,7,7 Extremely politically divided,false
+2023-071_q30,1,I am not aware of any issues in my locality or city,false
+2023-071_q30,2,I am aware of many issues in my locality or city,false
+2023-071_q30,3,I am aware of a few issues in my locality or city,false
+2023-071_q30,4,I don’t know,false
+2023-071_q31,1,Strongly disagree,false
+2023-071_q31,2,Somewhat disagree,false
+2023-071_q31,3,Somewhat agree,false
+2023-071_q31,4,Strongly agree,false
+2023-071_q32,1,Very Good,false
+2023-071_q32,2,Neutral/Don’t Know,false
+2023-071_q32,3,Concerning,false
+2023-071_q32,4,Very bad,false
+2023-071_q33,1,Legalize them,false
+2023-071_q33,2,International Cooperation,false
+2023-071_q33,3,Military,false
+2023-071_q33,4,Economic sanctions,false
+2023-071_q33,5,Other,false
+2023-071_q33,6,None of the above,false
+2023-071_q34,1,Strongly prefer Outcome A,false
+2023-071_q34,2,Somewhat prefer Outcome A,false
+2023-071_q34,3,Slightly prefer Outcome A,false
+2023-071_q34,4,Slightly prefer Outcome B,false
+2023-071_q34,5,Somewhat prefer Outcome B,false
+2023-071_q34,6,Strongly prefer Outcome B,false
+2023-071_q35,1,1 More likely to be greedy,false
+2023-071_q35,2,2,false
+2023-071_q35,3,3 Neither greedy nor generous,false
+2023-071_q35,4,4,false
+2023-071_q35,5,5 More likely to be generous,false
+2023-071_q36,1,1 Illegitimate,false
+2023-071_q36,2,2,false
+2023-071_q36,3,3,false
+2023-071_q36,4,4,false
+2023-071_q36,5,5,false
+2023-071_q36,6,6,false
+2023-071_q36,7,7,false
+2023-071_q36,8,8,false
+2023-071_q36,9,9,false
+2023-071_q36,10,10,false
+2023-071_q36,11,11 Legitimate,false
+2023-071_q37,1,Strongly disagree,false
+2023-071_q37,2,Disagree,false
+2023-071_q37,3,Neutral,false
+2023-071_q37,4,Agree,false
+2023-071_q37,5,Strongly agree,false
+2023-071_q38,1,1 Not informed at all,false
+2023-071_q38,2,2,false
+2023-071_q38,3,3,false
+2023-071_q38,4,4,false
+2023-071_q38,5,5,false
+2023-071_q38,6,6,false
+2023-071_q38,7,7,false
+2023-071_q38,8,8,false
+2023-071_q38,9,9,false
+2023-071_q38,10,10 Very well informed,false
+2023-071_q39,1,Strongly disagree,false
+2023-071_q39,2,Disagree,false
+2023-071_q39,3,Neither disagree nor agree,false
+2023-071_q39,4,Agree,false
+2023-071_q39,5,Strongly agree,false
+2023-071_q4,1,0 Very bad idea,false
+2023-071_q4,2,1,false
+2023-071_q4,3,2,false
+2023-071_q4,4,3,false
+2023-071_q4,5,4,false
+2023-071_q4,6,5,false
+2023-071_q4,7,6,false
+2023-071_q4,8,7,false
+2023-071_q4,9,8,false
+2023-071_q4,10,9,false
+2023-071_q4,11,10 Very good idea,false
+2023-071_q4,12,Not sure,false
+2023-071_q40,1,Strongly Disagree,false
+2023-071_q40,2,Disagree,false
+2023-071_q40,3,Somewhat Disagree,false
+2023-071_q40,4,Neither Agree nor Disagree,false
+2023-071_q40,5,Somewhat Agree,false
+2023-071_q40,6,Agree,false
+2023-071_q40,7,Strongly Agree,false
+2023-071_q41,1,Strongly Agree,false
+2023-071_q41,2,Agree,false
+2023-071_q41,3,Neutral,false
+2023-071_q41,4,Disagree,false
+2023-071_q41,5,Strongly Disagree,false
+2023-071_q42,1,A great deal of influence,false
+2023-071_q42,2,Some influence,false
+2023-071_q42,3,A little bit of influence,false
+2023-071_q42,4,No influence at all,false
+2023-071_q43,1,First Generation,false
+2023-071_q43,2,Second Generation,false
+2023-071_q43,3,Third Generation or Above,false
+2023-071_q43,4,Does not Apply,false
+2023-071_q44,1,Yes,false
+2023-071_q44,2,No,false
+2023-071_q44,3,Don’t know,false
+2023-071_q44,4,Refuse to answer,false
+2023-071_q45,1,Strongly disagree,false
+2023-071_q45,2,Disagree,false
+2023-071_q45,3,Somewhat disagree,false
+2023-071_q45,4,Neither agree nor disagree,false
+2023-071_q45,5,Somewhat agree,false
+2023-071_q45,6,Agree,false
+2023-071_q45,7,Strongly agree,false
+2023-071_q46,1,Strongly support,false
+2023-071_q46,2,Somewhat support,false
+2023-071_q46,3,Neither support or oppose,false
+2023-071_q46,4,Somewhat oppose,false
+2023-071_q46,5,Strongly oppose,false
+2023-071_q47,1,Strongly oppose,false
+2023-071_q47,2,Oppose,false
+2023-071_q47,3,Neither support nor oppose,false
+2023-071_q47,4,Support,false
+2023-071_q47,5,Strongly support,false
+2023-071_q47_ran,1,Trashware,false
+2023-071_q47_ran,2,Single-use products,false
+2023-071_q48,1,Strongly Oppose,false
+2023-071_q48,2,Oppose,false
+2023-071_q48,3,Somewhat Oppose,false
+2023-071_q48,4,Neither Oppose or Support,false
+2023-071_q48,5,Somewhat support,false
+2023-071_q48,6,Support,false
+2023-071_q48,7,Strongly Support,false
+2023-071_q49,1,The AI must be unbiased,false
+2023-071_q49,2,The AI must be accurate,false
+2023-071_q49,3,The AI must be cost-effective,false
+2023-071_q49,4,The AI must be understandable,false
+2023-071_q49,5,The AI's decisions must be accountable to elected officials,false
+2023-071_q49,6,Other (please specify),false
+2023-071_q5,1,Strongly agree,false
+2023-071_q5,2,Agree,false
+2023-071_q5,3,Disagree,false
+2023-071_q5,4,Strongly disagree,false
+2023-071_q50,1,Politics,false
+2023-071_q50,2,Sports,false
+2023-071_q50,3,Health,false
+2023-071_q50,4,Movies,false
+2023-071_q51,1,Football,false
+2023-071_q51,2,Baseball,false
+2023-071_q51,3,Soccer,false
+2023-071_q51,4,Basketball,false
+2023-071_q51,5,Hockey,false
+2023-071_q51,6,None of the above,false
+2023-071_q52,1,Every day,false
+2023-071_q52,2,Most days,false
+2023-071_q52,3,3 to 4 times a week,false
+2023-071_q52,4,1 to 2 times a week,false
+2023-071_q52,5,Very seldom,false
+2023-071_q53,1,Action,false
+2023-071_q53,2,Comedy,false
+2023-071_q53,3,Thriller,false
+2023-071_q53,4,Drama,false
+2023-071_q53,5,Science fiction,false
+2023-071_q55,1,The President,false
+2023-071_q55,2,Your Senator(s),false
+2023-071_q55,3,Your member of Congress (House of Representatives),false
+2023-071_q55,4,A government agency,false
+2023-071_q55,5,Your governor,false
+2023-071_q55,6,A sports team,false
+2023-071_q55,7,A celebrity,false
+2023-071_q55,8,None of the above,false
+2023-071_q56,1,Water directly from the tap or faucet,false
+2023-071_q56,2,Tap water filtered through a pitcher or refrigerator,false
+2023-071_q56,3,Bottled water,false
+2023-071_q56,4,Water purchased from a kiosk or vending machine,false
+2023-071_q57,1,I am currently serving,false
+2023-071_q57,2,I served previously,false
+2023-071_q57,3,An immediate family member is currently serving,false
+2023-071_q57,4,An immediate family member served previously,false
+2023-071_q57,5,None of the above,false
+2023-071_q59,1,Strong Negative Effect,false
+2023-071_q59,2,Moderate Negative Effect,false
+2023-071_q59,3,Slight Negative Effect,false
+2023-071_q59,4,No Effect,false
+2023-071_q59,5,Slight Positive Effect,false
+2023-071_q59,6,Moderate Positive Effect,false
+2023-071_q59,7,Strong Positive Effect,false
+2023-071_q6,1,Liberalism,false
+2023-071_q6,2,Conservatism,false
+2023-071_q6,3,Libertarianism,false
+2023-071_q6,4,Progressivism,false
+2023-071_q6,5,Christian nationalism,false
+2023-071_q6,6,Socialism,false
+2023-071_q6,7,None of these,false
+2023-071_q6,8,Other,false
+2023-071_q60,1,Much better than most people,false
+2023-071_q60,2,A little better than most people,false
+2023-071_q60,3,A little worse than most people,false
+2023-071_q60,4,Much worse than most people,false
+2023-071_q61,1,Strongly support,false
+2023-071_q61,2,Somewhat support,false
+2023-071_q61,3,Somewhat oppose,false
+2023-071_q61,4,Strongly oppose,false
+2023-071_q61_ran,1,They point to studies showing that test designers write questions that rely on background knowledge that white students are more likely to have than African American or Latino students.,false
+2023-071_q61_ran,2,They point to studies showing that white students tend to receive higher scores on these tests than African American and Latino students.,false
+2023-071_q61_ran,3,They point to studies showing that white students are more likely to attend school districts with resources that can better prepare them for these tests compared to African American and Latino students.,false
+2023-071_q62,1,Yes,false
+2023-071_q62,2,No,false
+2023-071_q63,1,Less powerful than the United States,false
+2023-071_q63,2,As powerful as the United States,false
+2023-071_q63,3,More powerful than the United States,false
+2023-071_q64,1,Yes,false
+2023-071_q64,2,No,false
+2023-071_q64,3,Don't know,false
+2023-071_q65,1,"Yes, a lot",false
+2023-071_q65,2,"Yes, a little",false
+2023-071_q65,3,No,false
+2023-071_q66,1,Extremely reliable,false
+2023-071_q66,2,Reliable,false
+2023-071_q66,3,Not reliable enough,false
+2023-071_q66,4,Not reliable at all,false
+2023-071_q67,1,Not afraid at all,false
+2023-071_q67,2,Somewhat not afraid,false
+2023-071_q67,3,Neither afraid nor not afraid,false
+2023-071_q67,4,Somewhat afraid,false
+2023-071_q67,5,Very afraid,false
+2023-071_q68,1,Muslim,false
+2023-071_q68,2,Christian - Protestant,false
+2023-071_q68,3,Christian - Catholic,false
+2023-071_q68,4,Christian - Other,false
+2023-071_q68,5,Jewish,false
+2023-071_q68,6,Buddhist,false
+2023-071_q68,7,Other,false
+2023-071_q68,8,Don't know,false
+2023-071_q69,1,I am a wage/salary employee who works for someone else,false
+2023-071_q69,2,I own a small business that employs other people,false
+2023-071_q69,3,I am a freelance or gig worker,false
+2023-071_q69,4,"I am not currently working (student, retired, homemaker, disabled, etc.)",false
+2023-071_q69,5,Something else,false
+2023-071_q7,1,Take care of our own people first,false
+2023-071_q7,2,People everywhere deserve our help,false
+2023-071_q70,1,Dispense medications,false
+2023-071_q70,2,Deal with insurance,false
+2023-071_q70,3,Pour pills in a bottle,false
+2023-071_q70,4,Diagnose chronic disease,false
+2023-071_q70,5,Call physicians offices,false
+2023-071_q70,6,Work in hospitals,false
+2023-071_q70,7,Don't know,false
+2023-071_q71,1,Totally Agree,false
+2023-071_q71,2,Somewhat Agree,false
+2023-071_q71,3,Neither Agree Nor Disagree,false
+2023-071_q71,4,Somewhat Disagree,false
+2023-071_q71,5,Totally Disagree,false
+2023-071_q71_ran,1,banned,false
+2023-071_q71_ran,2,allowed,false
+2023-071_q72,1,It is a human right,false
+2023-071_q72,2,It is a personal matter,false
+2023-071_q72,3,It is respect,false
+2023-071_q72,4,It is my worth,false
+2023-071_q72,5,It is my actions,false
+2023-071_q72,6,It is my values,false
+2023-071_q72,7,It is my achievements,false
+2023-071_q72,8,None of the above,false
+2023-071_q73,1,"- Selected Choice No, I don't use beauty products that lighten my skin tone",false
+2023-071_q73,2,"- Selected Choice Yes, to remove spots, pimples, scars, or stretch marks",false
+2023-071_q73,3,"- Selected Choice Yes, I don't love my complexion",false
+2023-071_q73,4,"- Selected Choice Yes, to get ahead in life/social mobility",false
+2023-071_q73,5,"- Selected Choice Yes, because people like it",false
+2023-071_q73,6,"- Selected Choice Yes, because my partner/spouse likes it",false
+2023-071_q73,7,"- Selected Choice Yes, because I want to look like my favorite celebrity (please specify who)",false
+2023-071_q8,1,Strongly Agree,false
+2023-071_q8,2,Somewhat Agree,false
+2023-071_q8,3,Neutral,false
+2023-071_q8,4,Somewhat Disagree,false
+2023-071_q9,1,Yes,false
+2023-071_q9,2,No,false
+2023-071_q9,3,I don't know,false
+2026-044_q4_31,1,"Yes, do feel as free",false
+2026-044_q4_31,2,"No, feel less free",false
+2026-044_q4_31,3,Don't know,false
